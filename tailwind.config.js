@@ -19,7 +19,9 @@ export default {
         nineteenrem: '19rem',
         sixrem: '6rem',
         "1rem": "1rem",
-        
+        "1200px": "1200px",
+        "6rem": "6rem",
+        "400px":"400px"
       },
 
       colors: {
